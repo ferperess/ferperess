@@ -2,7 +2,7 @@
 
 ## About Me :wave:
 
-Hello!  My name is Fernando. I'm 19-year-old and currently reside in Jaguariúna, Brazil. I'm working at Farmabase as young apprentice in the civil engineering department (nothing to do with programming hahaha)! I am a Software Analysis and Development student at Fatec.
+Hello!  My name is Fernando. I'm 19-year-old and currently reside in Jaguariúna, Brazil. I am a Software Analysis and Development student at Fatec.
 
 
   I learned about programming when I was still in high school and fell in love with the world of technology. I'm always trying to learn new concepts through college or online courses . Shoot me an [e-mail](mailto:ferpcg05@gmail.com)! 
